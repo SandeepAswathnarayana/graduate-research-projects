@@ -1,2 +1,2 @@
 # graduate-research-projects
-List of research and academic projects I worked on during my years at SMU, Dallas, TX.
+List of academic and research projects I worked on during my years at SMU, Dallas, TX.
