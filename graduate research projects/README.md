@@ -9,5 +9,6 @@ EMIS 7362 Production Systems Engineering, Dr. Richard S. Barr
 EMIS 7365 Program and Project Management, Dr. Nandlal M. Singh  
 EMIS 8360 Operations Research Models, Thoms F. Siems  
 EMIS 8356 Information Engineering and Global Strategies, John Graham  
+EMIS 7351, Enterprise Fundamentals, Thomas F.Siems  
 
 
