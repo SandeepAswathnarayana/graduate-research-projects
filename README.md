@@ -1,5 +1,5 @@
 # Research Projects  
-List of Internship and Academic Research Projects I have worked on  
+### Internship and Academic Research Projects  
 
 (NOTE: I haven't pushed any files to this repo as I have them in my old system which is no longer in working condition. I will be adding them once I have the files sorted and organized from the system hardware. Hope this helps!)  
 
