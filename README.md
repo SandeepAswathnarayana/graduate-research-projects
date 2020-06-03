@@ -18,7 +18,7 @@
 - SMU [March 2016 - May 2016]  
 - Advisor: Dr. Leslie-Ann Asmus, Adjunct Professor, and Corporate Liaison at SMU  
 
-**Datacenter Strategy and Cloud Infrastructure of ‘LinkedFlix’ on AWS EC2 - a Social Networking App 
+**Datacenter Strategy and Cloud Infrastructure of ‘LinkedFlix’ on AWS EC2 - a Social Networking App**  
 - Ericsson, Plano TX [Jan 2016 - April 2016]  
 - Advisor: Dr. Gheorghe Spiride, Sr. Technical Advisor at Ericsson  
 
