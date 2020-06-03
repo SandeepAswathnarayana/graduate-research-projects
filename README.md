@@ -3,9 +3,9 @@
 
 (NOTE: I haven't pushed any files to this repo as I have them in my old system which is no longer in working condition. I will be adding them once I have the files sorted and organized from the system hardware. Hope this helps!)  
 
-1. Zoning, development of correlations in property change and strategic decision solutions including, but not limited to, prototyping community-led model for preventing potential tax foreclosures, mapping parcel datasets using ArcGIS, reclaiming vacant properties in South Dallas.  
--- [May 2019 - July 2019]  
--- Team: Mr. James McGee, Member Board of Directors, DACA. Client: Mr. Nick Downer, Chief of Data Strategy & Operations, Loveland Technologies; Mr. Blake Girardot, Project Lead, Landgrid (also works for 'HOT OSM')  
+**Zoning, development of correlations in property change and strategic decision solutions including, but not limited to, prototyping community-led model for preventing potential tax foreclosures, mapping parcel datasets using ArcGIS, reclaiming vacant properties in South Dallas.**  
+- [May 2019 - July 2019]  
+- Team: Mr. James McGee, Member Board of Directors, DACA. Client: Mr. Nick Downer, Chief of Data Strategy & Operations, Loveland Technologies; Mr. Blake Girardot, Project Lead, Landgrid (also works for 'HOT OSM')  
 
 2. Building Inspection Records for Big City Code Compliance Department (BCCCD) using MySQL Workbench  
 - SMU [Sept 2016 - Dec 2016]  
